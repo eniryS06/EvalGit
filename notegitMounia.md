@@ -40,13 +40,9 @@ git add style.css
 git commit -m "version3 css"
 git push -u origin verssion3
 ```
-### merger les version sur master
+### merger la derniere version sur master
 ```bash
 git checkout master
-git merge main
-git merge version2
-git merge version3
-git merge verssion3
 git merge version-4
 ## nous avons des erreurs lorsque nous voulons merger sur la branche
 ```
