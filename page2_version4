@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluation</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="mobile" href="/css/mobile.css">
+</head>
+    <body>
+        <nav>
+          <table border="1">
+            <tr>
+              <td>Case Bruno</td>
+              <td>Case Syrine</td>
+              <td>Case Mounia</td>
+            </tr>
+        </table>
+            <a href="index.html">Acceuil</a>
+            <a href="page1.html">Page 1</a>
+            <a href="page2.html">page 2</a>
+        </nav>
+        <header>
+            <img src="/images/oiseau.webp" alt="">
+            <article>
+                <h1>Bievenue sur notre site pour l'évaluation.</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla exercitationem maxime quos, optio libero saepe quidem autem distinctio placeat eos assumenda odit? Molestias, in saepe. Explicabo animi vel natus non.</p>
+            </article>
+        </header>
+        </body>
+    </html>
