@@ -1,0 +1,36 @@
+cd Documents 
+mkdir EvalGit 
+cd EvalGit 
+git init
+
+git remote add origin https://github.com/eniryS06/EvalGit.git
+
+git config user.name "eniryS06"
+
+git config user.email "syrine.abdelbasset@efrei.net"
+
+nano mobile.css
+
+git add mobile.css
+git commit -m "premier v mobile.css"
+
+git push -u origin master
+
+
+Nano mobile.css 
+Git add mobile.css 
+Git commit -m  "premier v mobile.css"
+Git config user.name “eniryS06”
+Git config user.email "syrine.abdelbasset@efrei.net"
+git push -u origin master
+git checkout master
+git pull origin master 
+
+git branch verssion3
+nano index.html
+nano page1.html
+nano page2.html
+git checkout verssion3
+git add index.html
+git commit -m "ajout d'images"
+git push -u origin verssion3
